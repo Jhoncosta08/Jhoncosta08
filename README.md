@@ -4,7 +4,7 @@ My name is Jhonatan Silva da Costa, I am from Brazil, i am graduated in Systems 
 
 I am Developer, that has been working as a Front-end developer since 2019. 👨‍💻
 
-I'm passionate about technology, I love learning a lot and solving problems, I'm always ready for new challenges in my life.
+I love the technology area, I love learning a lot and solving problems, I'm always ready for new challenges in my life.
 
 #### 🌎 "O homem não é nada além daquilo que a educação faz dele." 💭💭💭
 
