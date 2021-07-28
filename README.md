@@ -14,7 +14,6 @@ Reach me out
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatan-silva-da-costa/)](https://www.linkedin.com/in/jhonatan-silva-da-costa/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jhon_costa08/)](https://www.instagram.com/jhon_costa08/) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/jhonatan.silvadacosta)](https://www.facebook.com/jhonatan.silvadacosta)
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhonatancosta08@hotmail.com)](mailto:jhonatancosta08@hotmail.com)
-
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Linkedin&logoColor=white&link=mailto:jhonatancosta08@hotmail.com)](mailto:jhonatancosta08@hotmail.com) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/papodedev/)](https://www.instagram.com/papodedev/)
 
