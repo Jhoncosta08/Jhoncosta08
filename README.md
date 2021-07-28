@@ -1,6 +1,8 @@
 #Hey 👋
 
-My name is Jhonatan Silva da Costa, I am from Brazil, i am graduated in Systems Analysis and Development from UniOpet👨‍🎓👨‍🎓👨‍🎓 I have advanced english by Wizzard school. I am Developer, that has been working as a Front-end developer since 2019. 👨‍💻
+My name is Jhonatan Silva da Costa, I am from Brazil, i am graduated in Systems Analysis and Development from UniOpet👨‍🎓👨‍🎓👨‍🎓 I have advanced english by Wizzard school. 
+
+I am Developer, that has been working as a Front-end developer since 2019. 👨‍💻
 
 I'm passionate about technology, I love learning a lot and solving problems, I'm always ready for new challenges in my life.
 
