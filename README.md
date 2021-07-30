@@ -1,4 +1,4 @@
-<h1>Hey</h1> 👋
+<h1>Hey 👋 </h1>
 
 My name is Jhonatan Silva da Costa, I am from Brazil, i am graduated in Systems Analysis and Development from UniOpet👨‍🎓👨‍🎓👨‍🎓 I have advanced english by Wizzard school. 
 
