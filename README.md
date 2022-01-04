@@ -9,7 +9,7 @@ I love the technology area, I love learning a lot and solving problems, I'm alwa
 <h4> 🌎 "O homem não é nada além daquilo que a educação faz dele." 💭💭💭 </h4>
 
 - 🚩 From PR living in Curitiba
-- 👨‍💻 Front-End developer at [Tunts Corp](https://tunts.com/) 
+- 👨‍💻 Front-End developer
 
 Reach me out 
 
