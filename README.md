@@ -15,6 +15,6 @@ Reach me out
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jhonatan-silva-da-costa/)](https://www.linkedin.com/in/jhonatan-silva-da-costa/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jhoncosta08/)](https://www.instagram.com/jhoncosta08/) 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/jhonatan.silvadacosta)](https://www.facebook.com/jhonatan.silvadacosta)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhonatancosta08@hotmail.com)](mailto:jhonatancosta08@hotmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/jhoncosta08)](https://www.facebook.com/jhoncosta08)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhonatan.s.costa97@gmail.com)](mailto:jhonatan.s.costa97@gmail.com)
 
