@@ -2,20 +2,28 @@
 <div align="center">
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
 <div>
-    
+      
 <div align="center">
     <h1>
-        Hi there<br/>
+        Hi there
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+        I am Jhonatan Costa
     </h1>
 </div>
 
 <div align="center">
   <h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me... </h2>
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
     
+<p align="center">
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
+    
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+   
   <p>
-    My name is Jhonatan Costa. I am from Brazil, I have a degree in Systems Analysis and Development from UniOpet👨‍🎓👨‍🎓👨‍🎓 
+    I am from Brazil, I have a degree in Systems Analysis and Development from UniOpet👨‍🎓👨‍🎓👨‍🎓 
     I have advanced english by Wizard school. I am Developer, that has been working as a Developer and Systems Analyst since 2019. 👨‍💻
     I love the technology area, I love learning a lot and solving problems, I'm always ready for new challenges in my life.
   </p>
