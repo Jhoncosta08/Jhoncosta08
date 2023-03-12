@@ -11,6 +11,8 @@ I love the technology area, I love learning a lot and solving problems, I'm alwa
 - 🚩 From PR living in Curitiba
 - 👨‍💻 Front-End developer
 
+ ##
+
 <div align="left">
   <a href="https://github.com/Jhoncosta08">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoncosta08&layout=compact&langs_count=7&theme=dracula"/>
