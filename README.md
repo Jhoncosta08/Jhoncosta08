@@ -21,7 +21,7 @@ I love the technology area, I love learning a lot and solving problems, I'm alwa
   ##
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="html-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-plain.svg">
+  <img align="center" alt="html-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="css-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-plain.svg">
   <img align="center" alt="Js-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
