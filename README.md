@@ -7,7 +7,7 @@
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-### :woman_technologist: About Me :
+:woman_technologist: About Me :
   <p>
    My name is Jhonatan Silva da Costa, I am from Brazil, I have a degree in Systems Analysis and Development from UniOpet👨‍🎓👨‍🎓👨‍🎓 I have advanced english by Wizard      school. 
 I am Developer, that has been working as a Developer and Systems Analyst since 2019. 👨‍💻
@@ -17,8 +17,8 @@ I love the technology area, I love learning a lot and solving problems, I'm alwa
  <h4> 🌎 "Man is nothing but what education makes him." 💭💭💭 </h4>
  
  <p>
-  - 🚩 From PR living in Curitiba
-  - 👨‍💻 Front-End developer
+  🚩 From PR living in Curitiba
+  👨‍💻 Front-End developer
  </p>
 </div>
 
@@ -27,6 +27,14 @@ I love the technology area, I love learning a lot and solving problems, I'm alwa
 <div align="left">
   <a href="https://github.com/Jhoncosta08">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoncosta08&layout=compact&langs_count=7&theme=dracula"/>
+    - uses: Platane/snk@v2
+  with:
+    github_user_name: ${{ Jhoncosta08 }}
+    palette: github-dark
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 </div>
   
   ##
