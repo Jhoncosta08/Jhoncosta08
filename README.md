@@ -12,8 +12,8 @@
 
 <div align="center">
   <h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me... </h2>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   <p>
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
     My name is Jhonatan Silva da Costa, I am from Brazil, I have a degree in Systems Analysis and Development from UniOpet👨‍🎓👨‍🎓👨‍🎓 
     I have advanced english by Wizard school. I am Developer, that has been working as a Developer and Systems Analyst since 2019. 👨‍💻
     I love the technology area, I love learning a lot and solving problems, I'm always ready for new challenges in my life.
