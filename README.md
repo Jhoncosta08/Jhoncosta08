@@ -54,8 +54,8 @@
  
 <div>
    <p align="center">
-      <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=Jhoncosta08&show_icons=true&locale=en" alt="Jhoncosta08" />
-      <img width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jhoncosta08&" alt="Jhoncosta08" />
+      <img width="45%" height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Jhoncosta08&show_icons=true&locale=en" alt="Jhoncosta08" />
+      <img width="45%" height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jhoncosta08&" alt="Jhoncosta08" />
    </p>
 <div>
     
@@ -75,12 +75,11 @@
     
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jhoncosta08&repo=angular-form-array&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"/>
 
-</div>
-    
+</div> 
     
 ##
- 
-<div style="display: inline_block"><br>
+    
+<div style="display: inline-block"><br>
  <img align="center" alt="html-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
  <img align="center" alt="css-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
  <img align="center" alt="bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
