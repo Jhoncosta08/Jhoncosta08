@@ -1,5 +1,6 @@
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
+  
 <div id="header" align="center">
-  ### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
@@ -33,15 +34,12 @@
 ##
  
 <div align="center"> 
-  <a>
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Jhoncosta08&theme=darkhub" alt="Jhoncosta08" />
-  </a> 
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Jhoncosta08&theme=darkhub" alt="Jhoncosta08" />
 </div>
  
 ##
  
 <div align="center">
-  <a href="https://github.com/Jhoncosta08">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoncosta08&layout=compact&langs_count=7&theme=dracula"/>
 </div/
  
