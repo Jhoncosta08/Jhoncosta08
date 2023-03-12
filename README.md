@@ -24,17 +24,10 @@ I love the technology area, I love learning a lot and solving problems, I'm alwa
 
  ##
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/Jhoncosta08">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoncosta08&layout=compact&langs_count=7&theme=dracula"/>
-    - uses: Platane/snk@v2
-  with:
-    github_user_name: ${{ Jhoncosta08 }}
-    palette: github-dark
-    outputs: |
-      dist/github-snake.svg
-      dist/github-snake-dark.svg?palette=github-dark
-      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoncosta08&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   ##
