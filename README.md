@@ -28,7 +28,7 @@ I love the technology area, I love learning a lot and solving problems, I'm alwa
  
  ##
  
- <h3 align="center">Trxuxv's Stats:</h3>
+ <h3 align="center">Jhonatan's Status:</h3>
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jhoncosta08&show_icons=true&locale=en" alt="Jhoncosta08" />
