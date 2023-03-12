@@ -14,6 +14,10 @@
   <h2><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me... </h2>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   
+  <h1 align="center">
+   <img src="https://raw.githubusercontent.com/jhonatancosta/jhonatancosta/master/name.svg" alt="Jhonatan Costa" />
+  </h1>
+    
   <p>
     I am from Brazil, I have a degree in Systems Analysis and Development from UniOpet👨‍🎓👨‍🎓👨‍🎓 
     I have advanced english by Wizard school. I am Developer, that has been working as a Developer and Systems Analyst since 2019. 👨‍💻
