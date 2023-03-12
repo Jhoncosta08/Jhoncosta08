@@ -20,8 +20,8 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20developer;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
     
-<img align="right" height="270" width="500" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="270"/>
+<img align="right" height="270" width="400" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="270"/>
    
   <p>
     I am from Brazil, I have a degree in Systems Analysis and Development from UniOpet👨‍🎓👨‍🎓👨‍🎓 
