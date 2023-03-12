@@ -77,7 +77,7 @@
 </div>
 
 <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jhoncosta08&repo=github-readme-stats&theme=buefy" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jhoncosta08&repo=anuraghazra.github.io&theme=buefy" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jhoncosta08&repo=angular-dynamic-table&theme=buefy" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jhoncosta08&repo=angular-form-array&theme=buefy" />
 </div>
    
