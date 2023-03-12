@@ -45,7 +45,6 @@
 </div/
  
 <div align="center>
-  <h3 align="center">Jhonatan's Status:</h3>
   <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jhoncosta08&show_icons=true&locale=en" alt="Jhoncosta08" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jhoncosta08&" alt="Jhoncosta08" />
