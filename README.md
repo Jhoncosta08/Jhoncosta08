@@ -4,9 +4,12 @@
 </div>
 
 <div id="header" align="center">
+  <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  ---
-  :woman_technologist: About Me :
+</div>
+---
+
+### :woman_technologist: About Me :
   <p>
    My name is Jhonatan Silva da Costa, I am from Brazil, I have a degree in Systems Analysis and Development from UniOpet👨‍🎓👨‍🎓👨‍🎓 I have advanced english by Wizard      school. 
 I am Developer, that has been working as a Developer and Systems Analyst since 2019. 👨‍💻
