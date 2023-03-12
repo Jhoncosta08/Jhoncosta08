@@ -44,11 +44,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoncosta08&layout=compact&langs_count=7&theme=dracula"/>
 </div/
  
-<div align="center>
-  <p align="center">
+<div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jhoncosta08&show_icons=true&locale=en" alt="Jhoncosta08" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jhoncosta08&" alt="Jhoncosta08" />
-   </p>
 <div>
  
 ##
