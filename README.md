@@ -44,6 +44,16 @@
   <img alt="snake-animation"src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
   </picture>
 </div>
+    
+##
+    
+<div align="center">
+  <img width="350px" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"/>
+</div>
+    
+<div align="center">
+  <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoncosta08&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ##
  
@@ -60,15 +70,10 @@
    </p>
 <div>
     
-##
-    
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoncosta08&layout=compact&langs_count=7&theme=dracula"/>
-</div/
 
 ##
     
-<div>
+<div align="center">
     
 <h2>Top repositories: </h2>
     
