@@ -88,7 +88,8 @@
 
 <div>
     #### Top Repositories
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jhoncosta08&repo=angular-dynamic-table&theme=buefy" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jhoncosta08&repo=angular-form-array&theme=buefy" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jhoncosta08&repo=angular-dynamic-table&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"/>
+    
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jhoncosta08&repo=angular-form-array&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" />
 </div>
    
