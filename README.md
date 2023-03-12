@@ -1,5 +1,9 @@
 <style>
-.centered-items {display: flex; justify-content: center; align-items: center}
+.centered-items {
+  display: flex; 
+  justify-content: center;
+  align-items: center
+ }
 </style>
 
 
