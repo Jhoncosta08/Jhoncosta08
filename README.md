@@ -22,8 +22,18 @@ I love the technology area, I love learning a lot and solving problems, I'm alwa
  
  <p align="center"> 
   <a>
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Jhoncosta08&theme=darkhub" />
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Jhoncosta08&theme=darkhub" alt="Jhoncosta08" />
   </a> 
+</p>
+ 
+ ##
+ 
+ <h3 align="center">Trxuxv's Stats:</h3>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jhoncosta08&show_icons=true&locale=en" alt="Jhoncosta08" />
+
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jhoncosta08&" alt="Jhoncosta08" />
 </p>
  
  ##
