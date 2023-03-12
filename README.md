@@ -52,17 +52,32 @@
  
 ##
  
+<div>
+   <p align="center">
+      <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=Jhoncosta08&show_icons=true&locale=en" alt="Jhoncosta08" />
+      <img width="45%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jhoncosta08&" alt="Jhoncosta08" />
+   </p>
+<div>
+    
+##
+    
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhoncosta08&layout=compact&langs_count=7&theme=dracula"/>
 </div/
- 
+
+##
+    
 <div>
-   <p align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jhoncosta08&show_icons=true&locale=en" alt="Jhoncosta08" />
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jhoncosta08&" alt="Jhoncosta08" />
-   </p>
-<div>
- 
+    
+<h2>Top repositories: </h2>
+    
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jhoncosta08&repo=angular-dynamic-table&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"/>
+    
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jhoncosta08&repo=angular-form-array&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"/>
+
+</div>
+    
+    
 ##
  
 <div style="display: inline_block"><br>
@@ -82,19 +97,5 @@
  <a href="https://www.linkedin.com/in/jhonatan-silva-da-costa/" target="_blank">
    <img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
-</div>
-    
-##
-
-<div>
-    
-<h2>Top repositories: </h2>
-    
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jhoncosta08&repo=angular-base-project&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"/>
-    
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jhoncosta08&repo=angular-dynamic-table&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"/>
-    
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jhoncosta08&repo=angular-form-array&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false"/>
-
 </div>
    
