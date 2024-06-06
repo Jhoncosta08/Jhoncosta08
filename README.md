@@ -23,7 +23,7 @@
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="270"/>
 
 
-<h4> 🚀 Frontend Developer | Angular Specialist 🚀 </h4>h4>
+<h4> 🚀 Frontend Developer | Angular Specialist 🚀 </h4>
 
 <p>
 Hailing from Brazil, I hold a degree in Systems Analysis and Development from UniOpet, with a postgraduate degree in Artificial Intelligence, and basic certifications in French and advanced in English from Wizard. <br/>
