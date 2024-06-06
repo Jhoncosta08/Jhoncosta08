@@ -21,17 +21,28 @@
     
 <img align="right" height="270" width="400" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="270"/>
-   
-  <p>
-    I am from Brazil, I have a degree in Systems Analysis and Development from UniOpet👨‍🎓👨‍🎓👨‍🎓 
-    I have advanced english by Wizard school. I am Developer, that has been working as a Developer and Systems Analyst since 2018. 👨‍💻
-    I love the technology area, I love learning a lot and solving problems, I'm always ready for new challenges in my life.
-  </p>
-  <h4> 🌎 "Man is nothing but what education makes him." 💭💭💭 </h4>
-   <p>
-     🚩 From PR living in Curitiba
-     👨‍💻 Front-End developer
-   </p>
+
+
+<h4> 🚀 Frontend Developer | Angular Specialist 🚀 </h4>h4>
+
+<p>
+Hailing from Brazil, I hold a degree in Systems Analysis and Development from UniOpet, with a postgraduate degree in Artificial Intelligence, and basic certifications in French and advanced in English from Wizard. <br/>
+Since 2018, I've been working as a developer and systems analyst, with a focus on frontend, particularly Angular.
+</p>
+
+<p>
+👨‍💻 I'm passionate about the technology field, I love learning and problem-solving. I'm always ready to take on new challenges and stay updated with the latest industry trends.
+</p>
+
+<h4> 🌎 "Man is nothing but what education makes him." 💭 </h4>
+
+<p>
+🚩 Currently residing in Curitiba, PR.
+</p>
+
+<p>
+🔧 Apart from Angular, I also have experience in Node.js, React, HTML, CSS, JavaScript, TypeScript, Firebase, and Supabase. I prioritize clean code practices and testing, ensuring the quality and efficiency of my projects.
+</p>
 </div>
 
 ##
