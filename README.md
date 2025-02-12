@@ -41,7 +41,7 @@ Since 2018, I've been working as a developer and systems analyst, with a focus o
 </p>
 
 <p>
-🔧 Apart from Angular, I also have experience in Node.js, React, HTML, CSS, JavaScript, TypeScript, Firebase, and Supabase. I prioritize clean code practices and testing, ensuring the quality and efficiency of my projects.
+🔧 Apart from Angular, I also have experience in Node.js, React, Vue, HTML, CSS, JavaScript, TypeScript, Firebase, and Supabase. I prioritize clean code practices and testing, ensuring the quality and efficiency of my projects.
 </p>
 </div>
 
